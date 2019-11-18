@@ -1,0 +1,35 @@
+{
+    "ID" : "nl-l1-w",
+    "title" : "Measurement Conversions",
+    "type" : "Written",
+    "contentLinks" : {
+      "tool" : "link",
+      "game" : "link",
+      "document" : "link"
+    },
+    "track" : "Core Building",
+    "difficultyLevel" : "1",
+    "tags" : [
+      "Stations",
+      "Manipulatives",
+      "Practice"
+    ],
+    "problems": ["1) Here's the first problem","2) Here's the second problem","3) Here's the third problem"],
+    "questions": ["Here are some suggestions",
+      "For facilitating this lesson",
+      "You can take a quick peek whenever you need to.",
+      "And then go right back to the action.",
+      "These instructions could be different depending on which problem you're on."],
+    "duration" : 15,
+    "steps": ["Show a puzzle from Level 1 and have students discuss what they notice.","Discuss how they know how many cups or pints to select.","Show puzzles from Level 2. Discuss how these puzzles compare to the puzzles in Level 1.","Play puzzles in each level and discuss how the different units compare (i.e., cups, pints, quarts, gallons).","Have students write equations to represent the relationship between the different units."],
+    "activityDescription" : "Learn how to convert between cups, pints, quarts and gallons. Practice converting liquid quantities between different units. Learn how to convert between cups, pints, quarts and gallons. Practice converting liquid quantities between different units. ",
+    "coreSkill" : "Partitioning a Number Line",
+    "coreSkillDescription" : "Show a puzzle from Level 1 and have students discuss what they notice.  \u0085 \u2022 Have students Think, Pair, Share how they might solve the puzzle.Discuss how they know how many cups or pints to select. Show puzzles from Level 2. Discuss how these puzzles compare to the puzzles in Level 1 Play puzzles in each level and discuss how the different units compare (i.e., cups, pints, quarts, gallons) Have students write equations to represent the relationship between the different units.",
+    "standardID" : "4.MD.A.1",
+    "standardDescription" : "4.MD.A.1: Know relative sizes of measurement units within one system of units including km, m, cm; kg, g; lb, oz.; l, ml; hr, min, sec. Within a single system of measurement, express measurements in a larger unit in terms of a smaller unit. Record measurement equivalents in a two-column table. For example, know that 1 ft is 12 times as long as 1 in. Express the length of a 4 ft snake as 48 in. Generate a conversion table for feet and inches listing the number pairs (1, 12), (2, 24), (3, 36), ...",
+    "previewImg" : "Number.png",
+    "discussion" : {
+      "notes" : "Discuss this way",
+      "link" : "/discuss-what-you-see-here"
+    }
+  }
